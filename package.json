@@ -2,9 +2,9 @@
   "name": "index.html",
   "version": "1.0.0",
   "description": "A reservation web application",
-  "main": "app.js",
+  "main": "index.html",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.html"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
